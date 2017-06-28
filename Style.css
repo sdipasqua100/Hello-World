@@ -1,0 +1,19 @@
+*{
+  color: yellow;
+}
+.Question{
+  font-weight: bold;
+}
+a{
+  font-weight: bold;
+  font-style: italic;
+  color: Red;
+}
+.Answers{
+  text-align: center;
+}
+body{
+  text-align: center;
+  background: url("http://cdn.images.express.co.uk/img/dynamic/128/590x/Everest-575683.jpg") no-repeat center center;
+  background-size: cover;
+}
